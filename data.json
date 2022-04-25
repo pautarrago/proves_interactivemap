@@ -1090,7 +1090,13 @@
         ]
       },
       "id": "SANT MARTI",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
@@ -2238,7 +2244,13 @@
         ]
       },
       "id": "CIUTAT VELLA",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
@@ -2594,7 +2606,13 @@
         ]
       },
       "id": "SANT ANDREU",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
@@ -3126,7 +3144,13 @@
         ]
       },
       "id": "NOU BARRIS",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
@@ -3322,7 +3346,13 @@
         ]
       },
       "id": "LEIXAMPLE",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
@@ -3774,7 +3804,13 @@
         ]
       },
       "id": "GRACIA",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
@@ -4750,7 +4786,13 @@
         ]
       },
       "id": "HORTA I GUINARDO",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
@@ -5502,7 +5544,13 @@
         ]
       },
       "id": "SANTS MONTJUIC",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
@@ -5810,12 +5858,24 @@
         ]
       },
       "id": "LES CORTS",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "type": "Feature"
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6299,9 +6359,7 @@
           ]
         ]
       },
-      "id": "SARRIA I SANT GERVASI",
-      "properties": {},
-      "type": "Feature"
+      "id": "SARRIA I SANT GERVASI"
     }
   ]
 }
